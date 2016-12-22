@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/movie.iml" filepath="$PROJECT_DIR$/.idea/modules/movie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/movie_main.iml" filepath="$PROJECT_DIR$/.idea/modules/movie_main.iml" group="movie" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/movie_test.iml" filepath="$PROJECT_DIR$/.idea/modules/movie_test.iml" group="movie" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/music.iml" filepath="$PROJECT_DIR$/.idea/modules/music.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/music_main.iml" filepath="$PROJECT_DIR$/.idea/modules/music_main.iml" group="music" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/music_test.iml" filepath="$PROJECT_DIR$/.idea/modules/music_test.iml" group="music" />
+    </modules>
+  </component>
+</project>

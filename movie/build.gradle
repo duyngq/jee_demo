@@ -1,0 +1,17 @@
+apply plugin: 'war'
+
+group 'tma.com.vn'
+version '1.0-SNAPSHOT'
+description 'Movie JEE Project'
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.11'
+    providedCompile group: 'javax', name: 'javaee-api', version:'7.0'
+}
